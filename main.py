@@ -12,3 +12,4 @@ print(f"Hola, {nombre} {apellido}. seleccionaste la cuidad: {ciudad}.")
 nombre_completo = f"{nombre} {apellido}"
 print(f"Nombre completo: {nombre_completo}")
 #nuevo 
+print
